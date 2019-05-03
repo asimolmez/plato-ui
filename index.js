@@ -1,1 +1,1 @@
-export * from "./src";
+export {poText} from "./src/components";

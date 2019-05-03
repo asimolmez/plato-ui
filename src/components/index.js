@@ -1,1 +1,1 @@
-export * from "./poText/poText";
+export * from "./PoText/poText";

@@ -1,1 +1,1 @@
-export {PoText} from "./src/components";
+export {PoView} from "./src/components";

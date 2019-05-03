@@ -1,0 +1,27 @@
+{
+  "name": "plato-ui",
+  "version": "1.0.0",
+  "description": "Customizable and reusable react-native component kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asimolmez/plato-ui.git"
+  },
+  "author": "lexelse.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asimolmez/plato-ui/issues"
+  },
+  "homepage": "https://github.com/asimolmez/plato-ui#readme",
+  "devDependencies": {
+    "react": "^16.8.6",
+    "react-native": "^0.59.5"
+  },
+  "peerDependencies": {
+    "react-native": "*",
+    "react": "*"
+  }
+}
